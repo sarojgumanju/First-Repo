@@ -1,3 +1,4 @@
 # First-Repo
-This is my first github repository
-developer - Saroj Gumanju
+This is my first github repository.
+<br>
+Developer - Saroj Gumanju
